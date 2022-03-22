@@ -1,0 +1,7 @@
+https://hub.docker.com/r/2039272/safalnameemail/tags
+
+
+docker pull 2039272/safalnameemail:myimage
+docker run -p 8080:8080 -d 2039272/safalnameemail:myimage
+
+http://localhost:8080/api/email
